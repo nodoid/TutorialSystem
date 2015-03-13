@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Forms>
+	<Element>
+		<formname>Test Window</formname>
+		<winxs>300</winxs>
+		<winys>500</winys>
+		<type>Label</type>
+		<xpos>100</xpos>
+		<ypos>100</ypos>
+		<externaldata>0</externaldata>
+		<externalplace></externalplace>
+		<text>Hello world!</text>
+		<questions>0</questions>
+		<questiontype></questiontype>
+		<numberqs>0</numberqs>
+		<answerfile></answerfile>
+		<backlink>-1</backlink>
+		<forwardlink>-1</forwardlink>
+	</Element>
+</Forms>

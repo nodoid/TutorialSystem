@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Forms>
+	<Element formname="Test Window" winxsize="800" winysize="350" wintitle = "The eye" 
+		type="System.Windows.Forms.PictureBox" xpos="25" ypos="50" xsize="300" ysize="200" name="pb1"
+		externaldata="false" externalplace="h:\eye.jpg" text="" questions="true" questiontype="none"
+		numberqs="0" answerfile="none" hasevent="false" backlink="999" forwardlink="999" 
+		pagenumber="1" />
+	<Element formname="Test Window" winxsize="800" winysize="350" wintitle = "The eye" 
+		type="System.Windows.Forms.RichTextBox" xpos="350" ypos="50" xsize="400" ysize="200" name="rt1"
+		externaldata="false" externalplace="h:\theeye.rtf" text="" questions="true" questiontype="none"
+		numberqs="0" answerfile="none" hasevent="false" backlink="999" forwardlink="2" 
+		pagenumber="1" />
+	<Element formname="Test Window" winxsize="800" winysize="350" wintitle = "The eye" 
+		type="System.Windows.Forms.PictureBox" xpos="25" ypos="50" xsize="300" ysize="200" name="pb1"
+		externaldata="false" externalplace="h:\eye.jpg" text="" questions="true" questiontype="none"
+		numberqs="0" answerfile="none" hasevent="false" backlink="999" forwardlink="999" 
+		pagenumber="2" />	
+	<Element formname="Test Window" winxsize="800" winysize="350" wintitle = "The eye" 
+		type="System.Windows.Forms.RichTextBox" xpos="350" ypos="50" xsize="400" ysize="200" name="rt1"
+		externaldata="false" externalplace="h:\theeye-lang.rtf" text="" questions="true" questiontype="none"
+		numberqs="0" answerfile="none" hasevent="false" backlink="1" forwardlink="999" 
+		pagenumber="2" />
+</Forms>

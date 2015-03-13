@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Forms>
+  <Form>
+   <WinName>Test Window</WinName>
+   <WinWidth>800</WinWidth> 
+   <WinHeight>350</WinHeight> 
+   <WinTitle>The eye 2</WinTitle>
+   <BackLink>999</BackLink> 
+   <ForwardLink>2</ForwardLink> 
+   <PageNumber>1</PageNumber>  
+   <ElementNos>2</ElementNos>  
+    <Element Name="pb1" Type="System.Windows.Forms.PictureBox" External="true" Events="false" Maths="false">
+    <X>25</X>
+    <Y>50</Y>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Text></Text>
+    <TabIndex>0</TabIndex>
+    <WithExternal>true</WithExternal>
+    <ExternalFile>h:\eye.jpg</ExternalFile>
+    <HasClick>false</HasClick>
+    <HasWritable>false</HasWritable>
+    <HasNumeric>false</HasNumeric>
+    <HasRO>false</HasRO>
+    <HasRadio>false</HasRadio>
+    <HasCheck>false</HasCheck>
+    <HasQuestions>false</HasQuestions>
+    </Element>
+   <Question QName="null"></Question>
+    <Element Name="rt1" Type="System.Windows.Forms.RichTextBox" External="true" Events="true" Maths="true">
+    <X>350</X>
+    <Y>50</Y>
+    <Width>400</Width>
+    <Height>200</Height>
+    <Text></Text>
+    <TabIndex>1</TabIndex>
+    <WithExternal>true</WithExternal>
+    <ExternalFile>h:\theeye.rtf</ExternalFile>
+    <HasClick>false</HasClick>
+    <HasWritable>false</HasWritable>
+    <HasNumeric>false</HasNumeric>
+    <HasRO>true</HasRO>
+    <HasRadio>false</HasRadio>
+    <HasCheck>false</HasCheck>
+    <HasQuestions>false</HasQuestions>
+    <HasWav>false</HasWav>
+    <HasMP3>false</HasMP3>
+    <buttonafter>true</buttonafter>
+    <hasmaths>false</hasmaths>
+    </Element>
+    <Question QName="null"></Question>
+  </Form>
+  <Form>
+   <WinName>Test Window</WinName>
+   <WinWidth>800</WinWidth> 
+   <WinHeight>350</WinHeight> 
+   <WinTitle>The eye 2</WinTitle>
+   <BackLink>1</BackLink> 
+   <ForwardLink>3</ForwardLink> 
+   <PageNumber>2</PageNumber>
+   <ElementNos>2</ElementNos>
+    <Element Name="pb1" Type="System.Windows.Forms.PictureBox" External="true" Events="false" Maths="true">
+    <X>25</X>
+    <Y>50</Y>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Text></Text>
+    <TabIndex>0</TabIndex>
+    <WithExternal>true</WithExternal>
+    <ExternalFile>h:\eye.jpg</ExternalFile>
+    <HasClick>false</HasClick>
+    <HasWritable>false</HasWritable>
+    <HasNumeric>false</HasNumeric>
+    <HasRO>false</HasRO>
+    <HasRadio>false</HasRadio>
+    <HasCheck>false</HasCheck>
+    <HasQuestions>false</HasQuestions>
+    </Element>
+    <Question Name="null"></Question>
+    <Element Name="rt1" Type="System.Windows.Forms.RichTextBox" External="true" Events="true" Maths="true">
+    <X>350</X>
+    <Y>50</Y>
+    <Width>400</Width>
+    <Height>200</Height>
+    <Text></Text>
+    <TabIndex>1</TabIndex>
+    <WithExternal>true</WithExternal>
+    <ExternalFile>h:\theeye-lang.rtf</ExternalFile>
+    <HasClick>false</HasClick>
+    <HasWritable>false</HasWritable>
+    <HasNumeric>false</HasNumeric>
+    <HasRO>true</HasRO>
+    <HasRadio>false</HasRadio>
+    <HasCheck>false</HasCheck>
+    <HasQuestions>false</HasQuestions>
+    <buttonafter>true</buttonafter>
+    </Element>
+    <Question QName="null"></Question>
+  </Form>
+  <Form>
+   <WinName>Test Window</WinName>
+   <WinWidth>800</WinWidth> 
+   <WinHeight>450</WinHeight> 
+   <WinTitle>Questions</WinTitle>
+   <BackLink>2</BackLink> 
+   <ForwardLink>4</ForwardLink> 
+   <PageNumber>3</PageNumber>
+   <ElementNos>2</ElementNos>
+    <Element Name="pb1" Type="System.Windows.Forms.PictureBox" External="true" Events="false" Maths="true">
+    <X>25</X>
+    <Y>50</Y>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Text></Text>
+    <TabIndex>0</TabIndex>
+    <WithExternal>true</WithExternal>
+    <ExternalFile>h:\eye.jpg</ExternalFile>
+    <HasClick>false</HasClick>
+    <HasWritable>false</HasWritable>
+    <HasNumeric>false</HasNumeric>
+    <HasRO>false</HasRO>
+    <HasRadio>true</HasRadio>
+    <HasCheck>false</HasCheck>
+    </Element>
+    <Question QName="null"></Question>
+    <Element Name="rt1" Type="System.Windows.Forms.RichTextBox" External="true" Events="true" Maths="false">
+    <X>350</X>
+    <Y>50</Y>
+    <Width>400</Width>
+    <Height>150</Height>
+    <Text></Text>
+    <TabIndex>1</TabIndex>
+    <WithExternal>true</WithExternal>
+    <ExternalFile>h:\theeye-qs.rtf</ExternalFile>
+    <HasClick>false</HasClick>
+    <HasWritable>false</HasWritable>
+    <HasNumeric>false</HasNumeric>
+    <HasRO>true</HasRO>
+    <HasRadio>true</HasRadio>
+    <HasCheck>false</HasCheck>
+    <HasQuestions>true</HasQuestions>
+    <QAfter>false</QAfter>
+    <QAfterLen>0</QAfterLen>
+    <buttonafter>false</buttonafter>
+    </Element>
+     <Question QName="Test1">
+       <QX>350</QX>
+       <QY>300</QY>
+       <QLen>200</QLen>
+       <QText>Option 1 : Comfy Chair</QText>
+       <QA>false</QA>
+       <QI>5</QI>
+     </Question>
+     <Question QName="Test2">
+       <QX>350</QX>
+       <QY>320</QY>
+       <QLen>200</QLen>
+       <QText>Option 2 : A dead parrott</QText>
+       <QA>false</QA>
+       <QI>6</QI>
+     </Question>
+     <Question QName="Test3">
+       <QX>350</QX>
+       <QY>340</QY>
+       <QLen>400</QLen>
+       <QText>Option 3 : A pair of lumberjack high-heals</QText>
+       <QA>true</QA>
+       <QI>7</QI>
+     </Question>
+  </Form>
+  <Form>
+   <WinName>Test Window</WinName>
+   <WinWidth>800</WinWidth> 
+   <WinHeight>350</WinHeight> 
+   <WinTitle>The eye 2</WinTitle>
+   <BackLink>3</BackLink> 
+   <ForwardLink>999</ForwardLink> 
+   <PageNumber>4</PageNumber>
+   <ElementNos>2</ElementNos>
+    <Element Name="pb1" Type="System.Windows.Forms.PictureBox" External="true" Events="false" Maths="false">
+    <X>25</X>
+    <Y>50</Y>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Text></Text>
+    <TabIndex>0</TabIndex>
+    <WithExternal>true</WithExternal>
+    <ExternalFile>h:\eye.jpg</ExternalFile>
+    <HasClick>false</HasClick>
+    <HasWritable>false</HasWritable>
+    <HasNumeric>false</HasNumeric>
+    <HasRO>false</HasRO>
+    <HasRadio>false</HasRadio>
+    <HasCheck>false</HasCheck>
+    <HasQuestions>false</HasQuestions>
+    </Element>
+    <Question Name="null"></Question>
+    <Element Name="rt1" Type="System.Windows.Forms.RichTextBox" External="true" Events="true" Maths="true">
+    <X>350</X>
+    <Y>50</Y>
+    <Width>400</Width>
+    <Height>200</Height>
+    <Text></Text>
+    <TabIndex>1</TabIndex>
+    <WithExternal>true</WithExternal>
+    <ExternalFile>h:\formula3.rtf</ExternalFile>
+    <HasClick>false</HasClick>
+    <HasWritable>false</HasWritable>
+    <HasNumeric>false</HasNumeric>
+    <HasRO>true</HasRO>
+    <HasRadio>false</HasRadio>
+    <HasCheck>false</HasCheck>
+    <HasQuestions>false</HasQuestions>
+    <buttonafter>true</buttonafter>
+    <hasmaths>true</hasmaths>
+    <formula>44*(3*22.7+16+18)(16/3)</formula>
+    <singlevalue>true</singlevalue>
+    <rowvalue>false</rowvalue>
+    </Element>
+    <Question QName="null"></Question>
+  </Form>
+</Forms>

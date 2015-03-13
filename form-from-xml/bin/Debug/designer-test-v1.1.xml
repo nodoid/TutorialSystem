@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Forms>
+  <Form Name="Test Window" Width="800" Height="350" Title="The eye 1" BackLink="" ForwardLink="2" PageNumber="1">
+    <ElementName="pb1" Type="System.Windows.Forms.PictureBox" X="25" Y="50" Width="300" Height="200" Text="" WithExternal="true" ExternalFile="h:\eye.jpg" HasClick="false" HasWritable="false" HasNumeric="false" HasRO="false"></Element>	
+  </Form>
+  <Form Name="Test Window" Width="800" Height="350" Title="The eye 2" BackLink="" ForwardLink="2" PageNumber="1">
+   <ElementName="rt1" Type="System.Windows.Forms.RichTextBox" X="350" Y="50" Width="400" Height="200" Text="" WithExternal="true" ExternalFile="h:\theeye.rtf" HasClick="false" HasWritable="false" HasNumeric="false" HasRO="true"></Element>
+  </Form>
+  <Form Name="Test Window" Width="800" Height="350" Title="The eye 1" BackLink="1" ForwardLink="" PageNumber="2">
+    <ElementName="pb1" Type="System.Windows.Forms.PictureBox" X="25" Y="50" Width="300" Height="200" Text="" WithExternal="true" ExternalFile="h:\eye.jpg" HasClick="false" HasWritable="false" HasNumeric="false" HasRO="false"></Element>
+  </Form>
+  <Form Name="Test Window" Width="800" Height="350" Title="The eye 2" BackLink="1" ForwardLink="" PageNumber="2">
+    <ElementName="rt1" Type="System.Windows.Forms.RichTextBox" X="350" Y="50" Width="400" Height="200" Text="" WithExternal="true" ExternalFile="h:\theeye-lang.rtf" HasClick="false" HasWritable="false" HasNumeric="false" HasRO="true"></Element>
+  </Form>
+</Forms>

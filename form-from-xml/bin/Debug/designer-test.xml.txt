@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Forms>
+  <Form>
+   <WinName>Test Window</WinName>
+   <WinWidth>800</WinWidth> 
+   <WinHeight>350</WinHeight> 
+   <Title>The eye 2</Title>
+   <BackLink>999</BackLink> 
+   <ForwardLink>2</ForwardLink> 
+   <PageNumber>1</PageNumber>  
+   <ElementNos>2</ElementNob>  
+    <Element Name="pb1" Type="System.Windows.Forms.PictureBox" External="true" Events="false">
+    <X>25</X>
+    <Y>50</Y>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Text></Text>
+    <TabIndex>0</TabIndex>
+    <WithExternal>true</WithExternal>
+    <ExternalFile>h:\eye.jpg</ExternalFile>
+    <HasClick>false</HasClick>
+    <HasWritable>false</HasWritable>
+    <HasNumeric>false</HasNumeric>
+    <HasRO>false</HasRO>
+    </Element>
+    <Element Name="rt1" Type="System.Windows.Forms.RichTextBox" External="true" Events="true">
+    <X>350</X>
+    <Y>50</Y>
+    <Width>400</Width>
+    <Height>200</Height>
+    <Text></Text>
+    <TabIndex>1</TabIndex>
+    <WithExternal>true</WithExternal>
+    <ExternalFile>h:\theeye.rtf</ExternalFile>
+    <HasClick>false</HasClick>
+    <HasWritable>false</HasWritable>
+    <HasNumeric>false</HasNumeric>
+    <HasRO>true</HasRO>
+    </Element>
+  </Form>
+  <Form>
+   <WinName>Test Window</WinName>
+   <WinWidth>800</WinWidth> 
+   <WinHeight>350</WinHeight> 
+   <Title>The eye 2</Title>
+   <BackLink>999</BackLink> 
+   <ForwardLink>2</ForwardLink> 
+   <PageNumber>2</PageNumber>
+   <ElementNos>2</ElementNos>
+    <Element Name="pb1" Type="System.Windows.Forms.PictureBox" External="true" Events="false">
+    <X>25</X>
+    <Y>50</Y>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Text></Text>
+    <TabIndex>0</TabIndex>
+    <WithExternal>true</WithExternal>
+    <ExternalFile>h:\eye.jpg</ExternalFile>
+    <HasClick>false</HasClick>
+    <HasWritable>false</HasWritable>
+    <HasNumeric>false</HasNumeric>
+    <HasRO>false</HasRO>
+    </Element>
+    <Element Name="rt1" Type="System.Windows.Forms.RichTextBox" External="true" Events="true">
+    <X>350</X>
+    <Y>50</Y>
+    <Width>400</Width>
+    <Height>200</Height>
+    <Text></Text>
+    <TabIndex>1</TabIndex>
+    <WithExternal>true</WithExternal>
+    <ExternalFile>h:\formula3.rtf</ExternalFile>
+    <HasClick>false</HasClick>
+    <HasWritable>false</HasWritable>
+    <HasNumeric>false</HasNumeric>
+    <HasRO>true</HasRO>
+    </Element>
+  </Form>
+</Forms>
